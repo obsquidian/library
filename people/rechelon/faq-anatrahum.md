@@ -1,4 +1,4 @@
-[LIVE LINK](http://blueshifted.net/faq) /// 
+[LIVE LINK](http://blueshifted.net/faq) ///// 
 [ARCHIVE LINK](https://archive.ph/McHJw) 
 
 (A)H+ Frequently Asked Questions
