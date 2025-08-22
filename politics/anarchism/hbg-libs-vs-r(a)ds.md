@@ -1,6 +1,6 @@
 #### hbomberguy : 2019-06-?? : on liberals vs anarchists
 
-> (curious cat question not copied)
+> (curiouscat question not copied)
 
 This is a really interesting question, so I’ll try and lay out a couple things I think you’re referring to. People who identify as small L 
 liberals will typically value democracy, equality, and freedom. They also typically value an expansive welfare state, a large military for 
