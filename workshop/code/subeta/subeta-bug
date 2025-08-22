@@ -1,0 +1,119 @@
+<tr><td><style type="text/css">@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+::-webkit-scrollbar { width: 4px; height: 4px; }::-webkit-scrollbar-button { width: 0px; height: 0px; }
+::-webkit-scrollbar-thumb { background: #e1e1e1; border: 0px none #ffffff; border-radius: 0px; }
+::-webkit-scrollbar-thumb:hover { background: #ccc; }::-webkit-scrollbar-thumb:active { background: #fff; }
+::-webkit-scrollbar-track { background: #fff; border: 0px none #ffffff; border-radius: 0px; }
+::-webkit-scrollbar-track:hover { background: #ccc; }::-webkit-scrollbar-track:active { background: #fff; }
+::-webkit-scrollbar-corner { background: transparent; }
+
+html,body{margin:0;padding:0;}
+body{height:100%;background-color:#ddd;color:#222;position:absolute;top:0;bottom:0;left:0;right:0;cursor:crosshair;
+background-repeat:repeat;overflow:hidden;}
+
+#navigation,#sticker_link,.header {background-image:none;display:none;}
+*{box-sizing:border-box;font-family:'Inconsolata',sans-serif;font-size:13px;}
+tbody,tr,td {display:block;width:100%;vertical-align:top;} 
+.info_block {background-image:none;padding:0;margin:0;}
+.block{border:none;border-radius:0;-webkit-border-radius:0;background-image:none;margin:0;} 
+ul.column li {margin:0;padding:0;} 
+.column{padding:0;height:auto;margin:0;width:100%!important;}
+
+#overall{height:100%;margin:0;margin-left:auto;padding:0;position:relative;overflow:auto;}
+.div_float{float:none!important;padding:0;margin:0;display:none;}a,a:hover{text-decoration:none;color:inherit;} 
+a:hover{cursor:cell;}.div_float:nth-of-type(1){display:block;height:150px;} 
+.div_float:nth-of-type(2){display:block;width:100%;min-height:100%;}
+
+#column2{background-color:rgba(255,255,255,0.85);width:100%;position:absolute;left:0;right:0;z-index:224;}
+#column2 .block{width:500px;display;block;margin-left:auto;margin-right:auto;}
+form,input,textarea{width:100%!important;}input,textarea
+{display:block;margin-left:auto;margin-right:auto;border:0;outline:0;}
+input{background-color:#eee;text-transform:lowercase;color:#666;text-align:right;padding:10px;transition:letter-spacing 1s;}
+input:hover{cursor:pointer;color:#444;letter-spacing:0.15em;transition:letter-spacing 1s;}
+textarea{padding:10px;font-family:'Inconsolata',monospace;background-color:#7171715e;width:100%;font-size:14px;color:#444;border:1px solid 
+#eee;z-index:1;position:relative;}
+
+form{position:relative;margin-top:10px;}form:before {content: 'This is my personal comment box. Please use the forums or ticket center if you have an issue that needs staff attention.';position: absolute;z-index: 0; background-color: #fff; display: block;padding: 5px;top: 0; right: 0; left: 0;bottom: 20px;text-align:center;font-size:0.95em; padding-left:10px;padding-right:10px;color:#000;}textarea:focus{background-color:#c4c4c4;}
+
+.pulse{height:400px;width:400px;display:block;background-color:#fff;font-size:0px;padding:80px;text-align:center;position:fixed; left:50%;top:50%;position:fixed;transform:translate(-50%, -50%);z-index:87;}
+.pulse img, .pulse:hover img, .pulse span:before, .pulse:hover span:before{transition:0.6s opacity;}
+.pulse:hover img{opacity:0.1;} .pulse:hover span:before{opacity:1.0;}
+.pulse span:before{display:block;opacity:0;position:absolute;width:250px;height:100px;text-align:center; 
+top:250px;left:80px;right:80px;font-size:18px;content:'(click to like)';color:#666;}
+.pulse:before,.pulse:after {content:'';display:block;position:absolute; top:0; right:0; bottom:0; left:0; border:1px solid #fff;}
+.pulse:before {-webkit-animation: ripple 4s linear infinite; animation: ripple 4s linear infinite;}
+.pulse:after { -webkit-animation: ripple 4s linear 2s infinite; animation: ripple 4s linear 2s infinite;}
+.pulse:hover:before,.pulse:hover:after {box-shadow:0 0 4px #fff;}
+
+@-webkit-keyframes ripple{  0% {-webkit-transform:scale(1); }  75% {-webkit-transform:scale(1.75); opacity:1;}100% 
+{-webkit-transform:scale(2); opacity:0;}}@keyframes ripple{0% {transform:scale(1); }75% {transform:scale(1.75); opacity:1;}100% 
+{transform:scale(2); opacity:0;}}.pulse img {border-radius:10px;}
+
+#column2_profile{}h1{font-size:26px;font-weight:bold;text-align:left;padding-top:35px;}
+.main-profile-text p , .main-profile-text a{color:#444;font-size:14px;}.main-profile-text p{margin-right:15px;}a, 
+a:link{color:#666;text-decoration:underline;}a:hover{cursor:pointer;font-weight:bold;}
+.pets-box{position:relative;}.pets-box .pet {display:inline-block;vertical-align:top;height:70px;width:70px;padding:10px;}
+.pets-box .pet img {max-width: 99%;box-shadow:0 0 5px #777;opacity:0.7;}.pets-box .pet:hover img {opacity:1.0;}.pet 
+.pet-label{position:absolute;top:40px;right:0;height:30px;display:none;color:#333;font-weight:normal;}.pet 
+.pet-label b {font-weight:bold;}.pet:hover .pet-label{display:block;}</style>
+
+<h1>--hello</h1>
+<div class="main-profile-text"><p>I'm Bug, a 26-yr-old trans guy <i>(he/him)</i> living in upstate NY. I love coding and
+coffee, listening to music and playing my keyboard, reading and writing poetry, and chilling with my cute IRL plushie collection.</p>
+<p>In my spare time, I'm a volunteer coder for Subeta! When I'm not fixing bugs, I'm putting more bugs in the code for me to fix later.</p>
+<p>Some useful links and goodies:</p>x 
+<a href="https://subeta.net/forums.php/groups/#/group/6323">site updates</a> | stay in the loop<br>x 
+<a href="https://subeta.net/forums.php/admin_posts_highlights">admin posts</a> | most important updates<br>x 
+<a href="https://bug.bz/tuts">htms/css tutorials</a> | learn to code profiles!<br>x 
+<a href="https://bug.bz/tools/tcplanner.php">pet tc planner</a> | helps you plan treasure chests<br>x 
+<a href="https://bug.bz/cws.php">cw name generator</a> | hehehe</div>
+
+<div class="pets-box">
+<h1>--pets</h1>
+
+<a href="/pets/bug/nonbinary"><div class="pet">
+<img src="https://img.subeta.net/items/item_heartpin_nb.gif" />
+<divclass="pet-label"><b>nonbinary</b> the spectrum neela</div>
+</div></a>
+
+<a href="/pets/bug/splish"><div class="pet">
+<img src="https://img.subeta.net/items/plushie_threepiecesushi.gif" />
+<div class="pet-label"><b>splish</b> the spectrum ontra</div>
+</div></a>
+
+<a href="/pets/segfault"><div class="pet">
+<img src="https://img.subeta.net/items/minion_beansidhe.gif" />
+<div class="pet-label"><b>segfault</b> the common 0925</div>
+</div></a>
+
+<a href="/pets/cron"><div class="pet">
+<img src="https://img.subeta.net/items/food_mgastrodessert.gif" />
+<div class="pet-label"><b>cron</b> the chibi 1550</div>
+</div></a>
+
+<a href="/pets/developer">
+<div class="pet"><img src="https://img.subeta.net/items/item_teslacoil.gif" />
+<div class="pet-label"><b>developer</b> the storm bumbus</div>
+</div></a>
+
+<a href="/pets/js"><div class="pet">
+<img src="https://img.subeta.net/items/mc_brokencoffeecup.gif" />
+<div class="pet-label"><b>js</b> the bloodred hipottu</div>
+</div></a>
+
+<a href="/pets/recursion"><div class="pet">
+<img src="https://img.subeta.net/items/food_quikneasyoven1.gif" />
+<div class="pet-label"><b>recursion</b> the chibi 886</div>
+</div></a>
+
+<a href="/pets/pollinator"><div class="pet">
+<img src="https://img.subeta.net/items/clothing_perfectgardenia.gif" />
+<div class="pet-label"><b>pollinator</b> the golden bumbus</div>
+</div></a>
+
+<a href="/pets/crawl"><div class="pet">
+<img src="https://img.subeta.net/items/clothing_crownoftheflameking.gif" />
+<div class="pet-label"><b>crawl</b> the reborn bumbus</div>
+</div></a>
+</div>
+
+<h1>--write</h1></td></tr>
