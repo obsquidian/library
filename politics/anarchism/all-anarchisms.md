@@ -1,5 +1,5 @@
-https://www.reddit.com/r/ClassicalLibertarians/comments/jpw3pd/a_list_of_all_the_anarchist_ideologies_their/
-https://archive.ph/DSQfc
+[LIVE LINK](https://www.reddit.com/r/ClassicalLibertarians/comments/jpw3pd/a_list_of_all_the_anarchist_ideologies_their/) --/////-- 
+[ARCHIVE LINK](https://archive.ph/DSQfc)
 
 A list of ALL the anarchist ideologies, their major proponents, and one of their books. Which ones do you take from? Which do you despise?
 - Tagged: Educational/Information
