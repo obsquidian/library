@@ -4,7 +4,7 @@ betrayal of standard cybersecurity? Come on, Willy! Anyway...
 [LIVE LINK](http://humaniterations.net/2013/12/12/why-anarchism-a-love-letter-to-our-doubters-burnouts-expats-refugees) --/////-- 
 [ARCHIVE LINK](https://archive.ph/a4vye) 
 
-# Why Anarchism? A Love Letter To Our Doubters, Burnouts, Expats, & Refugees
+#### Why Anarchism? A Love Letter To Our Doubters, Burnouts, Expats, & Refugees
 
 I’ve identified as an anarchist for over two decades. Like any ideology or flag of identification it is, to most people, a weird, 
 antiquated sort of thing to do. Relatively few people actually care about the world and those with the audacity to set out to change it 
