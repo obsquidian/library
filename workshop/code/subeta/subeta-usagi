@@ -1,0 +1,22 @@
+<style>
+/*coding help provided by user usagi*/
+
+html{background-color:#ffffff; cursor:default; background:url(url goes here);} 
+
+html, body, table, tr, td, div, a, i{font-family:trebuchet ms; font-size:12px; color:#444444; text-align:center; letter-spacing:0px;} 
+
+     a:link, a:active, a:visited{color:#000000; letter-spacing:0px; font-family:tahoma; font-size:10px; text-transform:none;}
+     a:hover{color:#888888; text-decoration:none; cursor:default;}
+
+    .textbox{color:#222222; height:80px !important; width:300px !important; -moz-border-radius:10px; border:1px solid #AAAAAA; background-color:#EFEFEF; font-family:tahoma; font-size:10px;}
+
+    .forminput{background-color:transparent; width:300px !important; height:20px !important; font-size:10px; -moz-border-radius:10px; border-radius:10px; border:0px solid #000000; font-family:trebuchet ms; letter-spacing:1px; color:#111111;}
+
+table, td{background-color:#ffffff;border:0px solid white;}
+
+.header{background-color:#F9C3CF;border:1px solid #ffffff;padding:0px!important;}
+
+#content_pets td{width:65px!important;padding-left:2px;}
+
+#navigation{background:#ffffff;border:1px solid #000000;}
+</style>
