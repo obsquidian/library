@@ -1,6 +1,6 @@
 #### ANON REDDIT : RADICAL LIBSOC POEM JAM SESSION
 
-#### Not understanding what is said 
+#### > Not understanding what is said 
 
 The person quotes a game
 
@@ -70,8 +70,7 @@ So you understand all that I wrote.
 
 **END**
 
-
-#### Communism ain't for everyone 
+#### > Communism ain't for everyone 
 
 Stalinists are massive scum 
 
