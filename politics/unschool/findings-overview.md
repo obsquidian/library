@@ -18,7 +18,7 @@ I posted the results of that study as a series of three articles in this blog—
 
 The results of that survey led us to wonder how those who are unschooled, as opposed to their parents, feel about the unschooling experience. We also had questions about the ability of grown unschoolers to pursue higher education, if they chose to do so, and to find gainful and satisfying adult employment. Those questions led us to the survey of grown unschoolers that is described in this article and, in more detail, in three more articles to follow.
 
-Survey Method for Our Study of Grown Unschoolers
+#### Survey Method for Our Study of Grown Unschoolers
 
 On March 12, 2013, Gina and I posted on this blog (here) an announcement to recruit participants. That announcement was also picked up by others and reposted on various websites and circulated through social media. To be sure that potential participants understood what we meant by “unschooling,” we defined it in the announcement as follows:
 
@@ -31,7 +31,7 @@ article continues after advertisement
 
 We received the completed questionnaires over a period of six months, and Gina and I, separately, read and reread them to generate a coding system, via qualitative analysis, for the purpose of categorizing the responses. After agreeing on a coding system, we then, separately, reread the responses to make our coding judgments, and then compared our separate sets of judgments and resolved discrepancies by discussion.
 
-The Participants, and Their Division into Three Groups
+#### The Participants, and Their Division into Three Groups
 
 A total of 75 people who met the criteria filled out and returned the survey. Of these, 65 were from the United States, 6 were from Canada, 3 were from the UK, and 1 was from Germany (where unschooling is illegal). The median age of the respondents was 24, with a range from age 18 to 49. Eight were in their teens, 48 were in their 20s, 17 were in their 30s, and 2 were in their 40s. Fifty-eight (77%) were women, 16 were men, and 1 self-identified as genderqueer. The high proportion of women probably represents a general tendency for women to be more responsive to survey requests than are men. It is not the case that more girls than boys are unschooled; indeed, our previous study suggested that the balance is in the opposite direction—there were somewhat more boys than girls undergoing unschooling in the families that responded to that survey.
 
@@ -40,7 +40,7 @@ For purposes of comparison, we divided the respondents into three groups based o
 The table below shows the breakdown of some of our statistical findings across the three groups. The column headings show the number of participants in each group. The first three data rows show, respectively, the median and range of ages, the median and range of total years of schooling plus homeschooling, and the percentage of respondents that were female for each group. It is apparent that the three groups were quite similar in number of participants, median age, and percent female, but, of course, differed on the index of number of years of schooling plus homeschooling.
 article continues after advertisement
 
-Their Formal Higher Education After Unschooling
+#### Their Formal Higher Education After Unschooling
 
 Question 5 of the survey read, “Please describe briefly any formal higher education you have experienced, such as community college/college/graduate school. How did you get into college without having a high school diploma? How did you adjust from being unschooled to being enrolled in a more formal type of educational experience? Please list any degrees you have obtained or degrees you are currently working toward.”
 
@@ -57,7 +57,7 @@ The colleges they attended were quite varied. They ranged from state universitie
 
 The participants reported remarkably little difficulty academically in college. Students who had never previously been in a classroom or read a textbook found themselves getting straight A’s and earning honors, both in community college courses and in bachelor’s programs. Apparently, the lack of an imposed curriculum had not deprived them of information or skills needed for college success. Most perceived themselves to be at an academic advantage compared with their classmates because they were not burned out by previous schooling, had learned as unschoolers to be self-directed and self-responsible, perceived it as their own choice to go to college, and were intent on making the most of what the college had to offer. A number of them reported disappointment with the college social scene. They had gone to college hoping to be immersed in an intellectually stimulating environment and, instead, found their fellow students to be more interested in frat parties and drinking. I will describe all this more fully in the next article in this series.
 
-Their Careers
+#### Their Careers
 
 Question 4 of the survey read, “Are you currently employed? If so, what do you do? Does your current employment match any interests/activities you had as an unschooled child/teen? If so, please explain.” Our analyses of responses to this question led us to generate a brief follow-up questionnaire, which we sent to all of the participants, in which we asked them to list and describe the paying jobs they had held, to indicate whether or not they earned enough to support themselves, and to describe any career aspirations they currently had in mind. Sixty-three (84%) of the original 75 participants responded to this follow-up questionnaire.
 
@@ -66,7 +66,6 @@ The great majority of respondents were gainfully employed at the time of the sur
 Collectively, the respondents had pursued a wide range of jobs and careers, but two generalizations jumped out at us in our qualitative analyses and coding of these.
 
 The first generalization is that a remarkably high percentage of the respondents were pursuing careers that we categorized as in the creative arts—a category that included fine arts, crafts, music, photography, film, and writing. Overall, 36 (48%) of the participants were pursuing such careers. Remarkably, as shown in data row 8 of the table, 79% of those in the always-unschooled group were pursuing careers in this category. The observation that the always-unschooled participants were more likely to pursue careers in the creative arts than were the other participants was highly significant statistically (p < .001 by a chi square test).
-article continues after advertisement
 
 The second generalization is that a high percentage of participants were entrepreneurs. Respondents were coded into this category if they had started their own business and were making a living at it or working toward making a living at it. This category overlapped considerably with the creative arts category, as many were in the business of selling their own creative products or services. Overall, by our coding, 40 (53%) of the respondents were entrepreneurs. As can be seen in data row 9 of the table, this percentage, too, was greatest for those in the always-unschooled group (63%), but in this case the differences across groups did not approach statistical significance.
 
@@ -74,7 +73,7 @@ In response to the question about the relationship of their adult employment to 
 
 All of these generalizations regarding unschoolers’ subsequent employment will be illustrated, with quotations from the surveys, in the third article in this series.
 
-Their Evaluations of Their Unschooling Experience
+#### Their Evaluations of Their Unschooling Experience
 
 Question 7 of the survey read, “What, for you, were the main advantages of unschooling? Please answer both in terms of how you felt as a child growing up and how you feel now, looking back at your experiences. In your view, how did unschooling help you in your transition toward adulthood?”
 
@@ -90,7 +89,7 @@ Question 9 read, “If you choose to have a family/children, do you think you wi
 
 The fourth article in this series will delve much more deeply into the advantages and disadvantages of unschooling as perceived and described by these respondents.
 
-Limitation of the Survey
+#### Limitation of the Survey
 
 A major limitation of this study, of course, is that the participants are a self-selected sample, not a random sample, of grown unschoolers. As already noted, relatively few men responded to the survey. A bigger problem is that the sample may disproportionately represent those who are most pleased with their unschooling experiences and their subsequent lives. Indeed, it seems quite likely that those who are more pleased about their lives would be more eager to share their experiences, and therefore more likely to respond to the survey, than those who are less pleased. Therefore, this study, by itself, cannot be a basis for strong claims about the experiences and feelings of the whole population of unschoolers. What the study does unambiguously show, however, is that it is possible to take the unschooling route and then go on to a highly satisfying adult life. For the group who responded to our survey, unschooling appears to have been far more advantageous than disadvantageous in their pursuits of higher education, desired careers, and other meaningful life experiences.
 
@@ -106,10 +105,6 @@ For much more about the human nature of self-determined education, see Free to L
 
 Note: The "Unschooling 101" illustration at the top of this article was created by Idzie Desmarais. Idzie is a "kindergarten dropout" who authors a great blog called I'm Unschooled. Yes I can Write. Her site includes, among other things, a list of blogs by teenage and grown unschoolers and a collection of interviews of grown unschoolers.
 
-    Share on FacebookShare
-    Share on TwitterTweet
-    Share via EmailEmail
-
-About the Author
+#### About the Author
 
 Peter Gray, Ph.D., is a research professor at Boston College, author of Free to Learn and the textbook Psychology (now in 8th edition), and founding member of the nonprofit Let Grow. 
