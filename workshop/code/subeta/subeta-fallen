@@ -1,0 +1,761 @@
+[box=black][color=white][center][b]Subetan / Eastern Standard Timezone // North Florida Location // [url=https://subeta.net/mail.php?act=new&to=Ickle]Send Mail[/url] // [url=https://subeta.net/friends.php?act=pending&add=Ickle]Add Friend[/url][/b][/center][br][br][heart][b] Event Actions : [/b][url=https://subeta.net/kiss.php?user=631988&mtl=MTUyMTk5MjE2Nw%3D%3D]Kiss[/url] [b]+[/b] [url=https://subeta.net/explore/masquerade.php?act=invite&user=631988&mtl=MTUyMTk5MTQ2OQ%3D%3D]Dance[/url] [b]+[/b] [url=https://subeta.net/profile.php?act=flower&usern=ickle]Flower[/url][br][heart][b] Nintendo Switch Friend Code : SW-2022-0028-4351[/b][br][heart] In a nutshell, I'm a somewhat troubled 21-year-old queer anarchist and Subeta is one of my many escapes.
+[/color][/box]
+
+<style>
+
+/* Free Profile By FallenSamurai
+avaliable @ subetagraphics.proboards.com
+
+Columns: 3 - Variable
+
+Last Updated: 2017-11-01 */
+
+/* Quick Edits
+
+In this section you will find some properties for quick editing. */
+
+/* Font Colors & Link Colors */
+
+/* Font Color and Background Color */
+
+body {
+ color: #000000 !important;
+ background-color: #000000 !important;
+}
+
+
+/* Link Color */
+
+a:link, a:visited, a:hover {
+ color: #4DBD33 !important;
+}
+
+
+/* Navigation */
+
+/* Navigation Background & Text Color */
+
+#navigation {
+ background-color: rgba(255,255,255,0.4);
+ color: rgba(255,255,255,1);
+ text-shadow: 0px 0px 2px rgba(0,0,0,0.4);
+}
+
+
+/* Navigation Links */
+
+#navigation a {
+ color: #caedff !important;
+ text-decoration: none;
+ text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.6);
+}
+
+
+/* Navigation Bar */
+
+#navigation {
+ background-color: rgba(255,255,255,0.4);
+ font-weight: normal;
+ height: 30px;
+ line-height: 30px;
+ font-size: 1.1em;
+ text-align: center;
+ color: rgba(255,255,255,1);
+ text-shadow: 0px 0px 2px rgba(0,0,0,0.4);
+}
+
+
+/* Banner Image */
+
+
+#navigation:after {
+ background-color: #fff;
+ background-image:url(https://i.imgur.com/totHISx.jpg);
+ background-size: cover;
+ background-position: 0 60%;
+}
+
+
+/* Banner Font
+
+If you do not want to have this section, remove any text between the apostrophes in the content property. */
+
+
+#navigation:before {
+ content: '';
+ font-family: Monospace;
+ color: #fff;
+ font-size: calc(25px + 4vw);
+ letter-spacing: 0.5vw;
+ text-align: center !important;
+ text-shadow: 0px 0px 5px rgba(0,0,0,1);
+}
+
+
+
+/* Comments */
+
+
+
+/* Comment Posting Textarea */
+
+.textbox {
+ border:0px;
+ background-color:rgba(0, 0, 0,0.05);
+ color:;
+}
+
+/* Submit Comment Button */
+
+.forminput {
+ border: 0px;
+ background-color: #6dbce5 ;
+ color: rgba(255,255,255,0.8);
+ font-weight: normal;
+ text-transform: uppercase;
+}
+
+
+
+/* Pets */
+
+/* Pet Headshots */
+
+.data div.avatar_head {
+ border-radius: 8px !important;
+ max-width: 60px !important;
+ height: 60px !important;
+}
+
+
+
+/* Columns
+
+ The columns are contained in a container. The width of this
+ container can be modified to be any size. The columns can then
+ be scaled to fit within the container. The total sum of each
+ column width should be 100.
+ 
+ For instance if you wish to have the columns stretch across
+ the whole width of the browser, set the container width to
+ 100%. If you do not want the columns to stretch that far, 
+ you can set the container to a smaller width and the columns 
+ will appear centered horizontally.
+ 
+ To remove a column, set the width to 0. Then redistribute the 
+ percentages in the other columns to equal 100% so that they
+ fill out the container.
+ 
+ If any content is left in a column that you set to zero, you will
+ need to move it to another column so that your profile appears
+ correctly.
+ 
+ If you wish to add back a column, first set the width to a 
+ percentage greater than zero and redistribute the column widths 
+ to equal 100%. */
+
+
+
+
+/* The container */
+
+#overall {
+ width: 100% !important;
+}
+
+/* Column 1 - Right Column */
+
+.div_float:nth-child(1) {
+ width: 0% !important;
+}
+
+/* Column 2 - Center Column */
+
+.div_float:nth-child(2) {
+ width: 100% !important;
+}
+
+/* Column 3 - Left Column */
+
+.div_float:nth-child(3) {
+ width: 0% !important;
+}
+
+
+
+
+
+
+
+
+/* CAUTION
+
+Reforrmating Code
+
+Do not edit anything below unless you know what you are doing.
+
+This section removes and cleans up Subeta base profile code.
+
+CAUTION */
+
+
+
+/* General Stuff */
+
+
+body {
+/* color: #000000 !important; */
+ font-family: Monospace;
+ font-weight: 400;
+ font-size: 12px;
+ /* background-color: #000000 !important; */
+
+}
+
+a:link, a:visited, a:hover {
+/* color: #6dbce5 !important; */
+}
+
+.column {
+ margin: 0 !important;
+ padding: 0!important;
+}
+
+#navigation:after {
+ content: '';
+/* background-color: #fff; */
+/* background-image:url(http://i.imgur.com/p1XIClb.jpg); */
+/* background-size: cover; */
+/* background-position: 0 70%; */
+ position:absolute;
+ top: 0px;
+ left: 0px;
+ width:100%;
+ height: 330px;
+ z-index: -2;
+}
+
+#navigation:before {
+/* content: "FallenSamurai"; */
+/* font-family: "Times New Roman", Times, serif; */
+/* color: #fff; */
+/* font-size: calc(25px + 4vw); */
+/* letter-spacing: 0.5vw; */
+ width: 100%;
+ position: absolute;
+ height: 330px;
+ display: flex;
+/* text-align: center !important; */
+ justify-content: center;
+ align-items: center;
+/* text-shadow: 0px 0px 5px rgba(0,0,0,1); */
+ z-index: -1;
+}
+
+#navigation {
+ position: relative;
+ background-image: none;
+/* background-color: rgba(255,255,255,0.4); */
+ border: 0px;
+/* font-weight: normal; */
+ margin: 0px;
+ padding: 0px;
+/* height: 30px; */
+/* font-size: 1.1em; */
+/* text-align: center; */
+/* line-height: 30px; */
+/* color: rgba(255,255,255,1); */
+/* text-shadow: 0px 0px 2px rgba(0,0,0,0.4); */
+}
+
+#navigation a {
+/* color: rgb(1, 145, 210); */
+/* text-decoration: none; */
+/* text-shadow: NONE; */
+}
+
+#overall {
+ position: relative;
+ top: 300px;
+/* width: 60% !important; */
+ display: flex;
+ justify-content: center;
+ margin: 0 auto !important;
+}
+
+
+
+/* Column Reformatting */
+
+ul.column li {
+ padding: 0px;
+ margin: 0px;
+}
+
+
+.header {
+ background-image: none;
+ background-color: transparent;
+ width: 100%;
+ height: auto;
+ font-weight: normal;
+ letter-spacing: 0px;
+ padding: 0px;
+ margin: 0px;
+ font-size: 16px;
+ line-height: 30px;
+ border-bottom: 1px solid rgba(0,0,0,0.1);
+ color: rgba(0,0,0,0.5);
+ margin-bottom: 5px;
+ text-indent: 5px;
+}
+
+.block {
+ border: 0px;
+ -moz-border-radius: 0px;
+ -webkit-border-radius: 0px;
+ background-image: none;
+ background-color: white;
+ padding: 3px !important;
+ margin: 10px !important;
+ box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.2);
+}
+
+.info_block {
+ padding: 0px;
+ margin: 0px;
+ background-image: none;
+}
+
+.div_float {
+ float: none;
+ width: inherit;
+}
+
+.div_float:nth-child(1) {
+/* width: 30% !important; */
+}
+.div_float:nth-child(2) {
+/* width: 30% !important; */
+}
+.div_float:nth-child(3) {
+/* width: 30% !important; */
+}
+
+#column1 {
+ float: none !important;
+ width: 100% !important;
+ background-color: transparent;
+}
+
+#column2 {
+ float: none !important;
+ width: 100% !important;
+ background-color: transparent;
+}
+
+
+#column3 {
+ float: none !important;
+ width: 100% !important;
+ background-color: transparent;
+}
+
+.column {border: 0px !important;}
+
+ul.column {
+ margin-bottom: 30px !important;
+}
+
+
+
+/* Comments Reformating */
+
+
+.comment_table {
+ border-bottom: 1px solid rgba(0,0,0,0.1);
+ width: 100%;
+ background-image: none;
+ padding-top: 10px !important;
+ padding-bottom: 10px !important;
+}
+
+#all_comments {
+ border:0px !important;
+ font-size: 12px;
+ padding-top:10px;
+ line-height:20px;
+ text-align: center;
+}
+
+.comment_table tr {
+ width: 100%;
+}
+
+
+.comment_text img {
+ position: relative;
+ width: 100%;
+}
+
+.comment_info {
+ background-color: transparent;
+ width: 30% !important;
+ text-align: center;
+}
+
+.ui.image.circular {
+ margin: 0 auto;
+ width: 60px !important;
+ height: 60px !important;
+ border-radius: 30px;
+}
+
+.comment_text{
+ display: table-row;
+ width: 70% !important;
+}
+
+
+form {
+ margin:0 auto;
+ width: 100% !important;
+}
+
+.textbox {
+ width: 100% !important;
+ margin: 0 auto !important;
+ margin-bottom: 5px !important;
+/* border:0px; */
+/* background-color:rgba(0, 0, 0,0.05); */
+ padding: 5px;
+ box-sizing: border-box;
+}
+
+.forminput {
+ width: 100% !important;
+/* border: 0px; */
+/* background-color: #6dbce5 ; */
+/* color: rgba(255,255,255,0.8); */
+/* font-weight: normal; */
+/* text-transform: uppercase; */
+}
+
+.data {
+ width: initial !important;
+}
+
+.data .avatar_head {
+ margin: 0 auto;
+ border: 0px;
+ border-radius: 30px;
+}
+
+
+
+/* Toolbar/Editing Reformating */
+
+
+div#toolbar_return {
+ height: 0px !important;
+}
+
+#toolbox {
+ position: fixed !important;
+ z-index: 1 !important;
+ margin: 0 auto !important;
+ background-image: none !important;
+ width: 100vw !important;
+ padding: 10px 0 !important;
+ border: 3px;
+ -moz-border-radius: 3px;
+ -webkit-border-radius: 3px;
+ background-image: none;
+ background-color: rgba(255,255,255,0.7);
+ box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.2);
+
+}
+
+
+.toolbox_button {
+ width: 20%;
+ background-color: white;
+ font-weight: bold !important;
+ margin-top: 5px !important;
+ background-color: #6dbce5 ;
+ color: rgba(255,255,255,1);
+
+ border: 0px;
+ -moz-border-radius: 0px;
+ -webkit-border-radius: 0px;
+ box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.1);
+}
+
+
+input, textarea, select {
+ border: 0px !important;
+ font-family: Helvetica,Verdana,Arial,sans-serif !important;
+ font-size: 13px;
+ letter-spacing: 1px;
+ font-weight: 100 !important;
+}
+
+
+div#toolbar_return {
+ height: 0px;
+ margin: 0 auto !important;
+ position: fixed !important;
+ z-index: 2;
+ top: 100px;
+}
+
+.updated_text {
+ position: relative !important;
+ width: 50vw !important;
+ margin: 0 auto !important;
+ left: 50%;
+ right: 50%;
+ font-weight: bold !important;
+ border: 3px;
+ -moz-border-radius: 3px;
+ -webkit-border-radius: 3px;
+ background-image: none;
+ color: #bdbdbd;
+ background-color: rgba(74, 74, 74, 0.9);
+ box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.2);
+
+}
+
+
+.updated_text form input[type="submit"] {
+ color: #ffffff !important;
+ background-color: #6dbce5;
+ box-sizing: border-box;
+ width: 100% !important;
+ text-transform: uppercase;
+ margin: 0px !important;
+ margin-top: 5px !important;
+}
+
+.updated_text form {
+ font-weight: normal;
+}
+
+.updated_text form input[type="radio"] {
+ width: initial !important;
+}
+
+.updated_text form input[type="submit"].toolbox_button {
+ width: 49% !important;
+ margin: 0.5% !important;
+ text-decoration: none !important;
+ text-transform: inherit !important;
+ font-weight: normal !important;
+}
+
+
+body::before {
+content: "free profile by fallensamurai available at subetagraphics";
+position: fixed;
+width: 100%;
+height: 25px;
+bottom: 0px;
+background-color: #4DBD33;
+z-index: 99;
+color: #C1FFC1;
+TEXT-ALIGN: CENTER;
+line-height: 25px;
+}
+
+
+
+/* Wishlist Reformat */
+
+
+#content_wishlist tbody {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+}
+
+
+#content_wishlist tr {
+ display: inherit !important;
+ width: 100% !important;
+}
+
+#content_wishlist td.wishlist_item {
+ width: 100% !important;
+ font-size: 75%;
+ margin: 2%;
+}
+
+#content_wishlist .wishlist_item img {
+ width: 100% !important;
+ max-width: 64px !important;
+ min-width: 25px !important;
+}
+
+
+
+/* Stickers Reformat */
+
+
+
+#content_wishlist tbody {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+}
+
+
+#content_wishlist tr {
+ display: inherit !important;
+ width: 100% !important;
+}
+
+#content_wishlist td.wishlist_item {
+ width: 100% !important;
+ font-size: 75%;
+ margin: 2%;
+}
+
+#content_wishlist .wishlist_item img {
+ width: 100% !important;
+ max-width: 64px !important;
+ min-width: 25px !important;
+}
+
+#content_stickers tbody {
+ display: flex !important;
+ justify-content: center;
+ flex-wrap: wrap;
+}
+
+#content_stickers tr {
+ display: inherit !important;
+ width: 100% !important;
+}
+
+table#content_stickers td.data {
+ flex-basis: auto;
+ width: inherit !important;
+ margin: 5%;
+}
+
+#content_stickers .data img {
+ min-width: 25px;
+ width: 100%;
+ max-width: 64px;
+}
+
+
+
+/* Pet Reformating */
+
+
+#content_pets tbody {
+ display: flex !important;
+ justify-content: center;
+ flex-wrap: wrap;
+}
+
+#content_pets tr {
+ display: inherit !important;
+ width: 100% !important;
+}
+
+#content_pets td {
+ width: inherit !important;
+ margin-bottom: 10px;
+}
+
+table#content_pets a {
+ flex:1;
+}
+
+.data div.avatar_head {
+ border-radius: 8px !important;
+ width: 100% !important;
+/* max-width: 60px !important; */
+/* height: 60px !important; */
+ background-repeat: no-repeat !important;
+ cursor: pointer;
+ margin-bottom: 5px !important;
+}
+
+
+
+/* Friend Reformat */
+
+
+#content_friends tbody {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+}
+
+
+#content_friends tr {
+ display: inherit !important;
+ width: 100% !important;
+}
+
+#content_friends td.data {
+ width: 100% !important;
+ font-size: 80%;
+ margin: 2%;
+}
+
+#content_friends .ui.image.circular {
+ width: 100% !important;
+ max-width: 64px !important;
+ min-width: 25px !important;
+ border-radius: 30px !important;
+}
+
+
+
+/* Medals Reformat */
+
+
+#content_medals tbody {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+}
+
+
+#content_medals tr {
+ display: inherit !important;
+ width: 100% !important;
+}
+
+#content_medals td.data {
+ width: 100% !important;
+ font-size: 75%;
+ margin: 2%;
+}
+
+#content_medals .data img {
+ width: 100% !important;
+ max-width: 64px !important;
+ min-width: 25px !important;
+}
+
+
+
+/* Miscellaneous */
+
+
+img#luminaire_gifts {
+ width: 100% !important;
+ max-width: 300px;
+}
+
+
+/* END */
+
+</style>
+
+[center][heart][heart][heart] (ovo)b [heart][heart][heart][/center]
