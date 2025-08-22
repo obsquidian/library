@@ -1,4 +1,4 @@
-(written May 21st, 2023, at 8 AM, during a manic episode) 
+#### (written May 21st, 2023, at 8 AM, during a manic episode) 
 
 when I was 11 I was given a non-verbal visual IQ test because I was too full of ADHD and latent anarchism to do the dumbass "required" essay to get into a "Gifted" Program like my mom wanted, because Alachua's school system is white supremacist in practice (the "Gifted" Programs cause pseudo-segregation within the schools they exist; school-to-prison pipeline for "mainstream" or "average" black kids to the extreme / they never got a real chance in school due to poverty and whatever else) 
 
