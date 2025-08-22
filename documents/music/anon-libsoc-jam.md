@@ -70,6 +70,7 @@ So you understand all that I wrote.
 
 **END**
 
+
 #### Communism ain't for everyone 
 
 Stalinists are massive scum 
