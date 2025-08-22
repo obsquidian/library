@@ -2,8 +2,11 @@
 [ARCHIVE LINK](https://archive.is/5or1p)
 
 > Verified by Psychology Today
+
 > Peter Gray Ph.D.
+
 > Freedom To Learn
+
 #### A Survey Of Grown Unschoolers I: Overview Of Findings
 #### Seventy-Five Unschooled Adults Report On Their Childhood And Adult Experiences
 
