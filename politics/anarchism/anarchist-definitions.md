@@ -12,7 +12,7 @@ nations), we propose seeing yourself as an individual and a cosmopolitan.
 
 #### ANON REDDIT : USEFUL ANARCHIST DEFINITIONS
 
-(Might be Cyclideon who wrote this?)
+> (Might be Cyclideon who wrote this?)
 
 When you said you were once an anarchist I assumed you would have a grasp of the theory. From what you said you either know less than 
 nothing - attributing views to anarchism that many anarchists do not hold - or you have skipped parts of your argumentation
