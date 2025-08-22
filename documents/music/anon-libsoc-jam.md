@@ -68,9 +68,7 @@ I leave thee with this edit note
 
 So you understand all that I wrote.
 
-
-~
-
+**END**
 
 #### Communism ain't for everyone 
 
