@@ -16,7 +16,7 @@ The only evil here
 
 Is the rule of the bourgeoisie 
 
--
+.
 
 A democratic workplace 
 
@@ -30,7 +30,7 @@ Collectively owned production
 
 Is mutual aid construction 
 
--
+.
 
 Never mind all the Stalinists 
 
@@ -40,7 +40,7 @@ For those still had a ruling class
 
 Capitalism with a socialist face
 
--
+.
 
 Individual freedom is the essence
 
@@ -50,7 +50,7 @@ And if that's what being evil is
 
 Then that is how I'll survive. 
 
--
+.
 
 And now the time has come to edit
 
