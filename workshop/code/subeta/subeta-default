@@ -1,0 +1,237 @@
+body
+{
+	margin: 0px;
+	height: 100%;
+	color: black;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #efefef;
+	font-size: 11px;
+	background-image:url('https://img.subeta.net/profile_background.png');
+	background-repeat: repeat-x;
+}
+
+a, a:link
+{
+	color: #1b6cbf;
+	text-decoration: none;
+}
+
+a:hover, a:active
+{
+	color: #188aff;
+	text-decoration: underline;
+}
+
+a img
+{
+	border: none;
+}
+
+input,textarea,select { 
+	border: 1px solid black;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+#navigation {
+	font-size: 11px;
+	font-family: tahoma;
+	font-weight: bold;
+	letter-spacing: 1px;
+	border-bottom: 1px solid black;
+	margin: 0px;
+	padding: 3px;
+	background-image:url('https://img.subeta.net/profile_header_gradient.png');
+	background-color: #3196b7;	
+}
+
+.data { 
+	text-align: center;
+}
+
+/* SET SIZES FOR BLOCKS */
+
+#friends td { 
+	width: 64px;
+}
+
+#medals td { 
+	width: 64px;
+}
+
+.comment_table { 
+	border-bottom: 1px solid black;
+	width: 100%;
+	background-image:url('https://img.subeta.net/profile_comment_gradient.png');
+	background-repeat: repeat-x;
+}
+
+table,tr,td { 
+	padding: 0px;
+}
+
+.comment_info { 
+	width: 64px;
+}
+
+.header { 
+	background-image:url('https://img.subeta.net/profile_header_gradient.png');
+	background-color: #3196b7;
+	width: 100%;
+	font-weight: bold;
+	letter-spacing: 2px;
+	border-bottom: 1px solid black;
+	padding-left: 3px;
+	height: 20px;
+}
+
+.hover { 
+	border: 1px dotted black;
+}
+
+.column {
+	width: 85%;
+	height: 100%;
+}
+
+.div_float { 
+	float: left;
+	width: 33%;
+}
+
+.block {
+	border: 5px solid white;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	background-image:url('https://img.subeta.net/profile_transparent.png');
+}
+
+.info_block { 
+	width: 100%;
+	padding: 1px;
+	background-image:url('https://img.subeta.net/profile_content_gradient.png');
+	background-repeat: repeat-x;
+}
+
+.updated_text { 
+	font-size: 11px;
+	font-family: Tahoma;
+	background-color: #FFE6E6;
+	border: 1px solid #760000;
+	width: 400px;
+	padding: 4px;
+	text-align: left;
+	letter-spacing: 1px;
+	text-align: center;
+}
+
+.updated_text input { 
+	margin: 3px;
+	width: 70%;
+}
+/* Toolbox */
+#toolbox { 
+	background-color: white;
+	border: 1px solid black;
+	padding: 5px;
+	margin: 5px;
+	background-image:url('https://img.subeta.net/profile_content_gradient.png');
+	background-repeat: repeat-x;
+}
+.toolbox_button {
+font-weight:bold;
+}
+#new-content{display:none;}
+
+
+.filler { 
+	width: 0px;
+	height: 0px;
+	background-color: transparent;
+}
+
+ ul {
+    list-style-image:none;
+    list-style-type:none;
+  }
+
+  li {
+		text-decoration:none;
+		display:block;
+  }
+
+  ul.column li {
+    padding:0px;
+    margin:5px;
+  }
+
+  span.handle {
+    background-color: #E8A400;
+    color:white;
+    cursor: move;
+  }
+
+  .avatar_head {
+	width: 64px;
+	height: 64px;
+	margin: 5px;
+	background-position: -26px -38px;
+	border-width: 1px;
+	cursor: default;
+	-moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    border-radius: 7px;	
+	border: 1px solid black;
+}
+.lastfm-album {
+	text-align: center;
+	vertical-align: middle;
+	padding: 2px;
+}
+.lastfm-album img {
+	width: 24px;
+	height: 24px;
+	border: 1px solid #000;
+	-moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+table[id^="lastfm-"] {
+	width: 100%;
+}
+table[id^="lastfm-"] th {
+	text-align: left;
+	font-size: 12pt;
+}
+table[id^="lastfm-"] td {
+	padding: 2px 4px;
+
+}
+table[id^="lastfm-"] td:nth-child(2){
+	font-weight: bold;
+}
+.lastfm-played {
+	white-space: nowrap;
+}
+
+#lastfm-show {
+	padding: 0;
+	margin: 4px 0 0 0;
+	display: block;
+}
+#lastfm-show li {
+	float: left;
+	border: 1px solid #000;
+	background-color: #eee;
+	margin: 0 2px;
+	padding: 0 2px;
+	-moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+#lastfm-show li:hover {
+	background-color: #E2F2FF;
+	border-color: #A4CDEF;
+	color: #1e57b1;
+}
