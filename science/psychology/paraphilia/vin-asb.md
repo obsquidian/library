@@ -21,7 +21,7 @@ Veterinarians in the United Kingdom randomly were polled for a study on non-acci
 
 In a 2006 commentary in The Veterinary Journal, veterinarian and abuse expert Dr. Helen Munro wrote: "The impression is that many continue to think of bestiality as a farmyard activity involving animals sufficiently large enough not to be injured and therefore not much to worry about. It seems that even in these modern times, the sexual abuse of animals is almost a last taboo, even to the veterinary profession." 
 
-Signs of sexual abuse 
+**Signs of sexual abuse** 
 
 Dr. Martha-Smith Blackmore is trying to change that. The vice president of animal welfare for the Animal Rescue League of Boston and a sometime expert witness in court cases involving animal sexual abuse, Smith-Blackmore gives presentations on the subject to veterinarians in which she discusses ethical and animal-welfare considerations.
 
